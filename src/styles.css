@@ -8,3 +8,15 @@ h1 {
 p {
   text-align: center;
 }
+
+.page-links {
+  display: block;
+  text-align: center;
+}
+
+.croissant-photo {
+  display: block;
+  max-width: 100%;
+  border-radius: 10px;
+  margin: 30px auto;
+}
